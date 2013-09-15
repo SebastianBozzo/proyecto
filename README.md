@@ -1,4 +1,4 @@
 proyecto
 ========
 
-proyecto programación avanzada universidad de los andes. sebastian bozzo, matias valenzuela, sebastian Baizas.
+proyecto programación avanzada universidad de los andes. sebastian bozzo, matias valenzuela, sebastian Baixas.
